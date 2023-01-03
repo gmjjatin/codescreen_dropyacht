@@ -2,9 +2,11 @@
     text-align: center;
 }
 
-.stats-box-row-1 {
+.stats-box-row {
   margin-top: 48px;
   margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
 }
 
 .stats-box-right {
